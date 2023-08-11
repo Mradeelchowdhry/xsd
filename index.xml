@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+
+<!-- <!DOCTYPE MOBILESHOP [
+    <!ELEMENT MOBILESHOP (brand+)>
+    <!ELEMENT brand (id,name,model,price)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT model (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+]> -->
+
+    <MOBILESHOP>
+        <brand>
+        <id>091</id>
+        <name>oppo</name>
+        <model>f19 pro</model>
+        <price>49,000</price>
+        </brand>
+        
+        <brand>
+            <id>092</id>
+            <name>apple</name>
+            <model>12 por max</model>
+            <price>300,000</price>
+            </brand>
+
+        <brand>
+             <id>093</id>
+             <name>samsung</name>
+             <model>s20+</model>
+             <price>350,000</price>
+            </brand>
+
+         <brand>
+               <id>094</id>
+                <name>vivo</name>
+                 <model>v23e</model>
+                 <price>65,000</price>
+                  </brand>
+
+              <brand>
+                    <id>095</id>
+                     <name>infinin</name>
+                      <model>note 30 pro</model>
+                      <price>70,000</price>
+                     </brand>
+        
+    </MOBILESHOP>
